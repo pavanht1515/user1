@@ -1,0 +1,70 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "username": "qwe",
+      "mail": "eqw@qew",
+      "mobile": "1231321323",
+      "country": "qwe",
+      "pass": "qweqwe",
+      "confPass": "qewqew",
+      "id": 4
+    },
+    {
+      "username": "pavan",
+      "mail": "qew@qwe",
+      "mobile": "12312313222",
+      "country": "india",
+      "pass": "pavan123",
+      "confPass": "pavan123",
+      "id": 5
+    },
+    {
+      "username": "new",
+      "mail": "new@123",
+      "mobile": "1234567890",
+      "country": "france",
+      "pass": "newfrance",
+      "confPass": "newfrance",
+      "id": 6
+    },
+    {
+      "username": "new2",
+      "mail": "new2@usa",
+      "mobile": "1111111111",
+      "country": "usa",
+      "pass": "new2usa",
+      "confPass": "new2usa",
+      "id": 7
+    },
+    {
+      "username": "new3",
+      "mail": "new3@mail",
+      "mobile": "1234657900",
+      "country": "india",
+      "pass": "indianew3",
+      "confPass": "indianew3",
+      "id": 8
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
